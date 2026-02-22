@@ -1,0 +1,4 @@
+.agent
+.git
+.node-modules
+.env
