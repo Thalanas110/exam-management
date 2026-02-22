@@ -1,0 +1,1 @@
+Exception: SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE exam_core_db.sp_create_exam; expected 4, got 3
